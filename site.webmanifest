@@ -1,0 +1,22 @@
+{
+  "name": "AI Pulse",
+  "short_name": "AI Pulse",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F5F5F5",
+  "theme_color": "#F5F5F5",
+  "lang": "en-LK",
+  "description": "Intelligence with a pulse. Enterprise software by AI Pulse.",
+  "icons": [
+    {
+      "src": "assets/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "assets/logo-mark.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
